@@ -9,9 +9,6 @@ I'm a data science student and aspiring machine learning engineer. I build proje
 - 💬 Ask me about: data science, machine learning, AI, Python, Pandas, NumPy, scikit-learn, TensorFlow / PyTorch
 - 📫 How to reach me: tushar.katpara09@gmail.com
 
-## Featured projects
-- [project-one](https://github.com/TUshARKatpara/project-one) — short description
-- [project-two](https://github.com/TUshARKatpara/project-two) — short description
 
 ## How to contribute
 I welcome friendly contributions, ideas, and feedback — especially from other students and beginners. Ways to contribute:
